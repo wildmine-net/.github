@@ -1,0 +1,2 @@
+# .github
+WildMine readme file
