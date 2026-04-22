@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Version-1.21%2B-green?style=for-the-badge&logo=minecraft" alt="Version">
-  <img src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=7289DA" alt="Discord">
+  <img src="https://img.shields.io/discord/1366072262528204901?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=7289DA" alt="Discord">
   <br>
   <h1>🌿 WildMine.net 🌿</h1>
   <p><i>Dein ultimatives Minecraft-Erlebnis auf der Version 1.21+</i></p>
