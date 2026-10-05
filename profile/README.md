@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Version-1.21%2B-green?style=for-the-badge&logo=minecraft" alt="Version">
+  <img src="https://img.shields.io/badge/Version-26.2+%2B-green?style=for-the-badge&logo=minecraft" alt="Version">
   <img src="https://img.shields.io/discord/1366072262528204901?label=Discord&logo=discord&logoColor=white&style=for-the-badge&color=7289DA" alt="Discord">
   <br>
   <h1>🌿 WildMine.net 🌿</h1>
-  <p><i>Dein ultimatives Minecraft-Erlebnis auf der Version 1.21+</i></p>
+  <p><i>Dein ultimatives Minecraft-Erlebnis!</i></p>
 </div>
 
 ---
@@ -14,14 +14,13 @@ Willkommen bei **WildMine.net**! Wir bieten eine einzigartige und performante Sp
 ### 🎮 Unsere Spielmodi
 Entdecke die Vielfalt auf WildMine.net:
 
-* **🏙️ WildCity** – Gründe deine eigene Stadt, handle mit Spielern und werde zum Wirtschaftsimperium.
+* **🏙️ WildAttack** – CraftAttack, aber für jeden Minecraft-Spieler und mit kleinen Extra-Features.
 * **🌳 WildSMP** – Klassisches Survival-Erlebnis mit einer starken Community und nützlichen Features.
-* **🧊 WildBlock** – Unsere einzigartige Interpretation von Skyblock/OneBlock. Überlebe mit begrenzten Ressourcen!
-* **💀 HardcoreSMP** – Nichts für schwache Nerven. Ein Fehler könnte dein letzter sein.
+* **🧊 WildBlock** – Unsere einzigartige Version von OneBlock. Überlebe mit begrenzten Ressourcen.
 
 ---
 
-### 🚀 Join Now
+### 🚀 Joine jetzt
 Du kannst sowohl mit der **Java Edition** als auch mit der **Bedrock Edition** beitreten!
 
 | Plattform | Server-Adresse (IP) | Port |
