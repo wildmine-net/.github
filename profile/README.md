@@ -25,7 +25,7 @@ Du kannst sowohl mit der **Java Edition** als auch mit der **Bedrock Edition** b
 
 | Plattform | Server-Adresse (IP) | Port |
 | :--- | :--- | :--- |
-| **Java Edition** | `wildmine.net` | *Standard (25565)* |
+| **Java Edition** | `wildmine.net` | *25565* |
 | **Bedrock Edition** | `bedrock.wildmine.net` | *19132* |
 
 ---
